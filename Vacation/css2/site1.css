@@ -1,0 +1,33 @@
+
+
+
+input[type="text"] {
+    margin: 0.5em 0 0.5em 0;
+    padding: 0.5em;
+}
+
+
+input[type="date"] {
+    margin: 0.5em 0 0.5em 0;
+    padding: 0.5em;
+}
+
+button#datepicker-button {
+    margin-bottom: 3em;
+}
+
+.flow-element {
+    display: inline-block;
+    margin-right: 3em;
+    vertical-align: top;
+}
+.flow-element:last-child {
+    margin-right: 0;
+}
+.flow-element input {
+    margin-top: 0;
+}
+
+#container {
+    min-height: 15em;
+}
